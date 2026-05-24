@@ -3,4 +3,4 @@
 
 *This file was created by an amateur. It can be distributed, modified, and used in any way, but the creator of its original version (Aetherior Ignis) assumes no responsibility for this*
 
-Link to my Telegram channel: link[https://t.me/Aetherior_Ignis_channel]
+Link to my Telegram channel: [link](https://t.me/Aetherior_Ignis_channel)
